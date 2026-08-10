@@ -67,8 +67,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadMonisSheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMonisSheikh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/MuhammadMonisSheikh?label=Followers&style=for-the-badge&color=2E9EF7&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MuhammadMonisSheikh&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=6A11CB&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
@@ -79,16 +79,38 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMonisSheikh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-> **Note:** Upar wale stats/trophy cards `vercel.app` par host hain — ye free public service hai jo kabhi kabhi rate-limit ki wajah se "Failed to retrieve" dikhati hai. Ye aapke README ki galti nahi, bas 1-2 baar page refresh karein, load ho jayega.
+> **Note:** Cards `vercel.app` par host hain (free public service) jo kabhi kabhi "Failed to retrieve" dikhati hain — bas page refresh karein, khud load ho jaati hain. Ye aapke README ki galti nahi.
 
 ---
 
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+  </a>
+  &nbsp;
+  <a href="https://www.fiverr.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=1DBF73" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/MuhammadMonisSheikh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/your-number" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_TechAltium_Website-000000?style=for-the-badge&labelColor=6A11CB" />
+  </a>
 </p>
 
 ---

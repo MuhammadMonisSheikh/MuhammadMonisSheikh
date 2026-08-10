@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=MuhammadMonisSheikh&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</p>
+
 ---
 
 <table>
@@ -81,6 +85,20 @@
 
 > **Note:** Cards `vercel.app` par host hain (free public service) jo kabhi kabhi "Failed to retrieve" dikhati hain — bas page refresh karein, khud load ho jaati hain. Ye aapke README ki galti nahi.
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadMonisSheikh&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img width="90%" src="https://raw.githubusercontent.com/MuhammadMonisSheikh/MuhammadMonisSheikh/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚙️ **Ye animation activate karne ke liye ek chhota one-time setup chahiye** — neeche instructions diye hain.
+
 ---
 
 ### 🌐 Connect With Me
@@ -102,14 +120,14 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
   </a>
   &nbsp;
-  <a href="https://wa.me/your-number" target="_blank">
+  <a href="https://wa.me/923208600264" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_TechAltium_Website-000000?style=for-the-badge&labelColor=6A11CB" />
+  <a href="https://portfolio-552de.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-000000?style=for-the-badge&labelColor=6A11CB" />
   </a>
 </p>
 

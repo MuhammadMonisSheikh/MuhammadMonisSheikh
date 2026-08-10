@@ -12,6 +12,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ### 🚀 About Me
 
 - 🏢 CEO & Founder of **TechAltium** — a software development company
@@ -21,6 +25,13 @@
 - 💼 Freelancing on **Fiverr** — building production-ready apps for clients worldwide
 - 🌱 Currently exploring AI automation tools and next-gen web app development
 - 🤝 Open to collaborations on AI-driven SaaS and web products
+
+</td>
+<td width="40%">
+  <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding animation" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,6 +43,13 @@
 
 ---
 
+<table>
+<tr>
+<td width="40%">
+  <img width="100%" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="dev animation" />
+</td>
+<td width="60%" valign="top">
+
 ### 🔥 What I Build
 
 - 🌐 Full-stack web applications with the **MERN stack**
@@ -39,6 +57,10 @@
 - 🤖 AI-integrated apps (chatbots, dashboards, automation tools)
 - 📊 Custom dashboards & SaaS products for startups and businesses
 - 🛍️ Client-ready projects delivered through Fiverr
+
+</td>
+</tr>
+</table>
 
 ---
 

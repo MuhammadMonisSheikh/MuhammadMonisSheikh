@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Muhammad Monis</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Muhammad%20Monis&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CEO%20%40%20TechAltium&descAlignY=58&descSize=18" alt="header banner" />
+
 <h3 align="center">Full-Stack Developer | CEO @ TechAltium | Building AI-Powered Web Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);AI-Powered+Web+Apps+Builder;CEO+%40+TechAltium;Turning+Ideas+Into+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadMonisSheikh&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -40,15 +45,19 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadMonisSheikh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMonisSheikh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhammadMonisSheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMonisSheikh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MuhammadMonisSheikh&theme=tokyonight&hide_border=true" />
 </p>
 
-> Agar upar wale cards temporarily load na ho rahe hoon ("Failed to retrieve contributions"), to ye third-party service (Vercel) ka rate-limit issue hota hai — chinta na karein, khud thori der (kuch minutes) mein resolve ho jaata hai. Page refresh kar ke dekh lein.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadMonisSheikh&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+> **Note:** Upar wale stats/trophy cards `vercel.app` par host hain — ye free public service hai jo kabhi kabhi rate-limit ki wajah se "Failed to retrieve" dikhati hai. Ye aapke README ki galti nahi, bas 1-2 baar page refresh karein, load ho jayega.
 
 ---
 
@@ -63,3 +72,5 @@
 ---
 
 <p align="center"><i>⭐️ Let's build something great together!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2E9EF7&height=100&section=footer" alt="footer banner" />
